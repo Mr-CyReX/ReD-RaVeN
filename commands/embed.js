@@ -16,7 +16,7 @@ module.exports.run = async (bot, message, args) => {
          .addField('***:six: - Discord Server Pack (Server Icon, Banner, etc.)***', '*Price: $5 Each*')
          .addField('***:seven: - Other***', '*Custom*')
          .addField('This is the yagpdb url', '[Click Here](https://yagpdb.xyz/manage/693473740427755520/customcommands/commands/23/)')
-         .addField('    **Type The _+Number_  From The List To Proceed**', '_`example : 1`_')
+         .addField('    **Type The _+Number_  From The List To Proceed**', '_`example : +1`_')
 
            
          message.channel.send(embed);

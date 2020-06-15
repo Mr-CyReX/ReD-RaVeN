@@ -17,7 +17,7 @@ module.exports.run = async (bot, message, args) => {
 module.exports.config = {
     name: "cooldown",
     description: "a Simple test of the Cooldown Command.",
-    usage: "+cooldown",
+    usage: "?cooldown",
     accessableby: "Members",
     aliases: []
 }

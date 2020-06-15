@@ -102,3 +102,7 @@ dist
 
 # TernJS port file
 .tern-port
+botsettings.json
+botsettings.json
+package-lock.json
+package-lock.json
